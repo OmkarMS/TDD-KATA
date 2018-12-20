@@ -1,8 +1,8 @@
 {
-  "name": "katatddjest18-12-19",
+  "name": "katatddjest20-12-18",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "PrimeFactor20-12-18.jest.js",
   "scripts": {
     "test": "jest"
   },
