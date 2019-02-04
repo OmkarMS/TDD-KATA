@@ -1,0 +1,14 @@
+{
+  "name": "katatddjest04-02-19",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.0.0"
+  }
+}
